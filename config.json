@@ -1,0 +1,10 @@
+{
+  "serviceMnemonic": "",
+  "serviceAddress": "0xA6279eF0c0C4BEa836E7e22AcC445f74BEa33CbD",
+  "ownerAddress": "0xC37CCc8e2DC57BBa95318d4c1E1fDA558012dCB0",
+  "tokenAddress": "0x8C7d63bA371282aEC28A2168359729D5b33cF6aB",
+  "dailyLimit": "1000000000000000000000000",
+  "gas": 3000000,
+  "gasPrice": 2000000000,
+  "mainnet": false
+}
